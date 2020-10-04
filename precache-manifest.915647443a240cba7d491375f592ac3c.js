@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ipl2020-fantasy-points/static/js/2.4b8567f3.chunk.js"
   },
   {
-    "revision": "990cf4a6cd3b7d06da61b3ae6044b537",
+    "revision": "1e2e03d61aeed2fe8066aee0d5dd7c86",
     "url": "/ipl2020-fantasy-points/index.html"
   }
 ];
